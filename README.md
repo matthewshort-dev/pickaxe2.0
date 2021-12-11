@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - I recommend using [nvm](https://github.com/nvm-sh/nvm), or node version manager, to easily manage all of your various node versions.
 
-[tailwind-css](https://tailwindcss.com/docs/guides/create-react-app)
+[Tailwind CSS](https://tailwindcss.com/docs/guides/create-react-app)
 
 - `npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@\^7 autoprefixer@\^`
 
@@ -16,17 +16,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - `npm install @craco/craco -g -s`
 
-[react-icons](https://www.npmjs.com/package/react-icons)
+[React Icons](https://www.npmjs.com/package/react-icons)
 
 - `npm install react-icons`
 
-[classnames](https://www.npmjs.com/package/classnames)
+[Classnames](https://www.npmjs.com/package/classnames)
 
 - `npm install classnames`
 
 [dotenv](https://www.npmjs.com/package/dotenv)
 
 - `npm install dotenv`
+
+[daisyUI](https://daisyui.com/docs/install)
+`npm install daisyui`
 
 ## Scripts
 

@@ -1,0 +1,7 @@
+.header {
+  @apply navbar mb-2 shadow-lg bg-neutral text-neutral-content rounded-box
+}
+
+.button {
+  @apply btn btn-square btn-ghost
+}
