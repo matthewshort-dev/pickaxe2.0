@@ -29,7 +29,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - `npm install dotenv`
 
 [daisyUI](https://daisyui.com/docs/install)
-`npm install daisyui`
+
+- `npm install daisyui`
 
 ## Scripts
 
