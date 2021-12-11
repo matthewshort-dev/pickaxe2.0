@@ -30,4 +30,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Scripts
 
-`craco start` - Development mode which will run on [http://localhost:3000]
+`craco start` - Development mode which will run on (http://localhost:3000)
